@@ -2,8 +2,8 @@
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
+<meta charset="utf-8">
 <head>
-	<meta charset="utf-8">
 	<title>Incluir contenido html de otro fichero</title>
 </head>
 <body>

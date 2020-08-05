@@ -2,8 +2,8 @@
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
+<meta charset="utf-8">
 <head>
-	<meta charset="utf-81">
 	<title>Registro JSP</title>
 </head>
 <body>
